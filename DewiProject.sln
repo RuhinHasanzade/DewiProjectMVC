@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DewiProject", "DewiProject\DewiProject.csproj", "{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80C5CDEB-D1A2-47F0-B26F-D8BEDE51D535}
+	EndGlobalSection
+EndGlobal

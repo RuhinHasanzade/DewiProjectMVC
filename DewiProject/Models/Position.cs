@@ -1,0 +1,10 @@
+﻿using DewiProject.Models.Common;
+
+namespace DewiProject.Models
+{
+    public class Position : BaseEntity
+    {
+        public string Name { get; set; } = string.Empty;
+        public ICollection<Employee> Employees { get; set; } = []; 
+    }
+}
