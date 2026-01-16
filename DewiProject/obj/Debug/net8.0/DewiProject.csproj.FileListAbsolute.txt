@@ -257,3 +257,4 @@ C:\Users\ASUS\source\repos\DewiProject\DewiProject\obj\Debug\net8.0\refint\DewiP
 C:\Users\ASUS\source\repos\DewiProject\DewiProject\obj\Debug\net8.0\DewiProject.pdb
 C:\Users\ASUS\source\repos\DewiProject\DewiProject\obj\Debug\net8.0\DewiProject.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\DewiProject\DewiProject\obj\Debug\net8.0\ref\DewiProject.dll
+C:\Users\ASUS\source\repos\DewiProject\DewiProject\obj\Debug\net8.0\DewiProject.sourcelink.json

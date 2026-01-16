@@ -38,6 +38,7 @@ namespace DewiProject
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
 
