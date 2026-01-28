@@ -1,13 +1,15 @@
 using DewiProject.Context;
+using DewiProject.Helpers;
 using DewiProject.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace DewiProject
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -23,7 +25,16 @@ namespace DewiProject
 
             }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
+            builder.Services.AddScoped<DbContextInitalizer>();
+
             var app = builder.Build();
+
+            var scope = app.Services.CreateScope();
+
+            var initalizer = scope.ServiceProvider.GetRequiredService<DbContextInitalizer>();
+
+            await initalizer.DbInit();
+
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())

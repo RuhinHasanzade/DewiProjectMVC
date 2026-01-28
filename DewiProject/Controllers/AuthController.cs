@@ -78,14 +78,6 @@ namespace DewiProject.Controllers
             return RedirectToAction("Index", "Home");
         }
 
-        public async Task<IActionResult> CreateRoles()
-        {
-            await _roleManager.CreateAsync(new() { Name = "Admin" });
-            await _roleManager.CreateAsync(new() { Name = "Member" });
-
-            return Ok("Roles Was Create");
-        }
-
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();

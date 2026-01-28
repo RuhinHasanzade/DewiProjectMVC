@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\helpers\\dbcontextinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\helpers\\dbcontextinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\viewmodels\\authviewmodels\\adminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\viewmodels\\authviewmodels\\adminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\dewiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\dewiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -37,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\viewmodels\\authviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\viewmodels\\authviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\dewiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\dewiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\migrations\\20260116074759_addedmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|solutionrelative:dewiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87FD948C-5B8B-4C8A-B0F9-DCFD8223517C}|DewiProject\\DewiProject.csproj|c:\\users\\asus\\source\\repos\\dewiproject\\dewiproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,11 +106,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "DbContextInitalizer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Helpers\\DbContextInitalizer.cs",
+              "RelativeDocumentMoniker": "DewiProject\\Helpers\\DbContextInitalizer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Helpers\\DbContextInitalizer.cs",
+              "RelativeToolTip": "DewiProject\\Helpers\\DbContextInitalizer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:46:06.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "DewiProject\\Views\\_ViewStart.cshtml",
@@ -110,12 +130,11 @@
               "RelativeToolTip": "DewiProject\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-16T08:27:12.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T08:27:12.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "RegisterVm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\ViewModels\\AuthViewModels\\RegisterVm.cs",
               "RelativeDocumentMoniker": "DewiProject\\ViewModels\\AuthViewModels\\RegisterVm.cs",
@@ -123,12 +142,11 @@
               "RelativeToolTip": "DewiProject\\ViewModels\\AuthViewModels\\RegisterVm.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T08:21:42.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T08:21:42.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "LoginVm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\ViewModels\\AuthViewModels\\LoginVm.cs",
               "RelativeDocumentMoniker": "DewiProject\\ViewModels\\AuthViewModels\\LoginVm.cs",
@@ -136,12 +154,11 @@
               "RelativeToolTip": "DewiProject\\ViewModels\\AuthViewModels\\LoginVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T08:21:29.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T08:21:29.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "DewiProject\\Views\\Auth\\Register.cshtml",
@@ -149,12 +166,11 @@
               "RelativeToolTip": "DewiProject\\Views\\Auth\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-16T08:20:01.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T08:20:01.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "DewiProject\\Views\\Auth\\Login.cshtml",
@@ -162,25 +178,23 @@
               "RelativeToolTip": "DewiProject\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-16T08:19:47.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T08:19:47.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "DewiProject\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Controllers\\AuthController.cs",
               "RelativeToolTip": "DewiProject\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T08:19:08.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T08:19:08.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DewiProject\\Context\\AppDbContext.cs",
@@ -192,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "DewiProject\\Views\\_ViewImports.cshtml",
@@ -200,18 +214,17 @@
               "RelativeToolTip": "DewiProject\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-16T07:16:54.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T07:16:54.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Program.cs",
               "RelativeDocumentMoniker": "DewiProject\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Program.cs",
               "RelativeToolTip": "DewiProject\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T07:07:34.701Z",
               "EditorCaption": ""
@@ -219,6 +232,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AdminVm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\ViewModels\\AuthViewModels\\AdminVm.cs",
+              "RelativeDocumentMoniker": "DewiProject\\ViewModels\\AuthViewModels\\AdminVm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\ViewModels\\AuthViewModels\\AdminVm.cs",
+              "RelativeToolTip": "DewiProject\\ViewModels\\AuthViewModels\\AdminVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:49:24.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DewiProject\\Views\\Shared\\_Layout.cshtml",
@@ -226,24 +251,23 @@
               "RelativeToolTip": "DewiProject\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAE0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-16T07:08:54.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T07:08:54.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\appsettings.json",
               "RelativeDocumentMoniker": "DewiProject\\appsettings.json",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\appsettings.json",
               "RelativeToolTip": "DewiProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-16T07:26:34.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "EmployeeConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Configuration\\EmployeeConfiguration.cs",
               "RelativeDocumentMoniker": "DewiProject\\Configuration\\EmployeeConfiguration.cs",
@@ -255,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "PositionConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Configuration\\PositionConfiguration.cs",
               "RelativeDocumentMoniker": "DewiProject\\Configuration\\PositionConfiguration.cs",
@@ -267,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "DewiProject\\Models\\AppUser.cs",
@@ -279,20 +303,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "DewiProject.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\DewiProject.csproj",
               "RelativeDocumentMoniker": "DewiProject\\DewiProject.csproj",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\DewiProject.csproj",
               "RelativeToolTip": "DewiProject\\DewiProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-16T07:06:44.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T07:06:44.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "20260116074759_AddedModels.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Migrations\\20260116074759_AddedModels.cs",
               "RelativeDocumentMoniker": "DewiProject\\Migrations\\20260116074759_AddedModels.cs",
@@ -304,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Position.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Models\\Position.cs",
               "RelativeDocumentMoniker": "DewiProject\\Models\\Position.cs",
@@ -316,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "DewiProject\\Models\\Employee.cs",
@@ -328,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "DewiProject\\Models\\Common\\BaseEntity.cs",
@@ -340,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DewiProject\\Controllers\\HomeController.cs",
@@ -352,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DewiProject\\Views\\Home\\Index.cshtml",
@@ -364,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DewiProject\\DewiProject\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "DewiProject\\ScaffoldingReadMe.txt",
